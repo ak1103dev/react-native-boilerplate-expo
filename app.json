@@ -1,5 +1,16 @@
 {
   "expo": {
-    "sdkVersion": "15.0.0"
+    "sdkVersion": "15.0.0",
+    "android": {
+      "package": "TestTest"
+    },
+    "name": "react-native-boilerplate2",
+    "slug": "react-native-boilerplate2",
+    "version": "0.1.0",
+    "isDetached": true,
+    "detach": {
+      "scheme": "exp3ad7aa4932874a38b79729783a4540c0",
+      "androidExpoViewUrl": "https://s3.amazonaws.com/exp-exponent-view-code/android-v1.14.0-sdk15.0.0-c07a9392-71db-4330-8452-98080b6b52f1.tar.gz"
+    }
   }
 }
